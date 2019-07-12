@@ -103,8 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# myadd
 images/
-log/
-.idea/
-*.npy
